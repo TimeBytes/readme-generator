@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Creates a professional readme page for user, through command line prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
