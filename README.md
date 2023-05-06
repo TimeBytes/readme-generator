@@ -23,6 +23,7 @@ The words in white is the prompts from the program, the text in cyan are user in
 The last prompt is a list of choices, using the up and down arrow key to navigate and enter to select.
 
 Video walkthrough : https://youtu.be/9orPKzOy6uI
+
 GitHub Repo URL: https://github.com/TimeBytes/readme-generator
 
 ## Credits
